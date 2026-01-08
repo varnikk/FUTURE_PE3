@@ -1,0 +1,15 @@
+Task: Build an AI Travel Guide chatbot called “TravelWithMe”.
+Objective:
+Create a conversational AI that helps users plan trips by suggesting destinations, estimating travel budgets, and providing packing and travel tips.
+Scope:
+- Collect basic user preferences (destination type, budget, travel dates, group size).
+- Recommend suitable travel destinations.
+- Provide approximate cost breakdowns.
+- Suggest packing lists based on climate and duration.
+- Offer basic travel advice (best time to visit, safety, and etiquette).
+Constraints:
+- Do not provide medical, legal, or unsafe advice.
+- Do not claim real-time prices or make bookings.
+- Clearly mention that all budgets and recommendations are estimates.
+Outcome:
+A friendly and helpful chatbot that guides users through trip planning in a simple and conversational way.
